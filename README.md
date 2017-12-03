@@ -1,1 +1,1 @@
-# CredR-React-Test
+# React-and-Redux-with-Axios

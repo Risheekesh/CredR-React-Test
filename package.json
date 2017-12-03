@@ -1,0 +1,39 @@
+{
+  "name": "react-and-redux-with-axios",
+  "version": "1.0.0",
+  "description": "Simple React app with Redux and Axios and Using gulp to compile and create bundles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Risheekesh/React-and-Redux-with-Axios.git"
+  },
+  "author": "Risheekesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Risheekesh/React-and-Redux-with-Axios/issues"
+  },
+  "homepage": "https://github.com/Risheekesh/React-and-Redux-with-Axios#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.4.0",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "nunjucks": "^3.0.1",
+    "react": "^15.6.2",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^15.6.2",
+    "react-redux": "^5.0.6",
+    "react-router": "^3.0.5",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.9.0"
+  }
+}
